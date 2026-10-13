@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fraym.epsiloop.io/sitemap.xml
